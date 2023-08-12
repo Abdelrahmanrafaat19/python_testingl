@@ -1,0 +1,1 @@
+mu = input("mkdjv")
